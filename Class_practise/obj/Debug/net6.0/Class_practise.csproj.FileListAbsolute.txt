@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\bin\Debug\net6.0\Class_practise.exe
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\bin\Debug\net6.0\Class_practise.deps.json
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\bin\Debug\net6.0\Class_practise.runtimeconfig.json
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\bin\Debug\net6.0\Class_practise.dll
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\bin\Debug\net6.0\Class_practise.pdb
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\obj\Debug\net6.0\Class_practise.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\obj\Debug\net6.0\Class_practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\obj\Debug\net6.0\Class_practise.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\obj\Debug\net6.0\Class_practise.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\obj\Debug\net6.0\Class_practise.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\obj\Debug\net6.0\Class_practise.dll
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\obj\Debug\net6.0\refint\Class_practise.dll
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\obj\Debug\net6.0\Class_practise.pdb
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\obj\Debug\net6.0\Class_practise.genruntimeconfig.cache
+C:\Users\user\Desktop\Projects\Class_practise\Class_practise\obj\Debug\net6.0\ref\Class_practise.dll
